@@ -1,4 +1,4 @@
-# quantox_technology_school_board_test
+# Quantox Technology School Board Test
 Design of a management system for student grades
 
 ENTRY POINTS:
